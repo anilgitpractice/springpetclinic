@@ -29,7 +29,7 @@ ARG => Build time arguments
 CMD => Command that will be called when container is created
 ENTRYPOINT => Command that will be called when container is created
 ```
-##Dockerfile
+## Dockerfile
 Docker file writing for spring pet clinic application
 
 The above mentioned instructions are used in this  docker file
